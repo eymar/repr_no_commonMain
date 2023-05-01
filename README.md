@@ -11,3 +11,7 @@ at org.jetbrains.kotlin.gradle.plugin.sources.DefaultKotlinSourceSet.getDependen
 ```
 
 Syncs fine when using kotlin 1.8.20
+_____
+
+
+Already reported: https://youtrack.jetbrains.com/issue/KT-58319/kotlin.git-ProjectMetadataProviderImpl-Unexpected-source-set-commonMain
